@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I’m a backend developer passionate about building systems that solve real-world problems with technical elegance.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I currently collaborate with **[Lombao Estudios](https://www.lombaoestudios.com/)** on **[A Ver Que Sale](https://www.averquesale.com/)**, a price-comparison platform that helps consumers find the most affordable and relevant products using intelligent search technology.
 
-What else do you need?
+My focus lies in:
+- Designing **robust and efficient RESTful APIs** with **Python** and **Flask**
+- Implementing **search engines** with **Elasticsearch** to prioritize useful and budget-friendly results
+- Ensuring **scalability**, **performance**, and **security** in backend systems
 
-### My story
+Although my expertise is backend-oriented, I deeply value clean architecture and cross-functional collaboration to deliver real user value.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+When I’m not coding, I explore cybersecurity techniques, experiment with audio effects (yes, the Haas effect is fascinating!), or refine my async development workflows.
+
+---
+
+Interested in collaborating or have technical questions?  
+Feel free to reach me at [genesisdarklord@gmail.com](mailto:genesisdarklord@gmail.com)!
+
